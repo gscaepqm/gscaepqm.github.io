@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://gscaepqm.github.io
+url:                   https://gscaepqm.github.io/gscaepqm.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -53,7 +53,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             讲义
-    url:               /ppts/
+    url:               /slides/
   - title:             作业
     url:               /assignment/
   - title:             回放
