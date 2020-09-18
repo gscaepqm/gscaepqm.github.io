@@ -12,7 +12,7 @@ url:                   https://gscaepqm.github.io/gscaepqm.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/gscaepqm.github.io'
+baseurl:               '/index'
 
 
 # General settings
@@ -206,7 +206,7 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  #post_addons:         [about, newsletter, related, random, comments]
+  post_addons:         [related]
 
   # Configure the order of complementary content on project pages
   #project_addons:      [about, newsletter, other, comments]
